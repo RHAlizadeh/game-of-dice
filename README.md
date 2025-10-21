@@ -1,4 +1,4 @@
-# python-game-of-dice
+# game-of-dice
 Practice Codes
 
 A simple Python game that simulates a dice roll. The players roll the dice one by one, and the goal is to get the highest sum.
